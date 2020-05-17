@@ -5,8 +5,8 @@
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration              *
  *                                                                                                *
  ************************************************************************************************ */
-
-
+http://www.omdbapi.com/?apikey=[yourkey]&
+http://www.omdbapi.com/?t=blade+runner
 /**
  * Returns the 'Fizz','Buzz' or an original number using the following rules:
  * 1) return original number
